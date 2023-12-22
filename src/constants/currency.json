@@ -1,0 +1,277 @@
+[
+  {
+    "value": "USD",
+    "label": "United States Dollar",
+    "description": "The official currency of the United States."
+  },
+  {
+    "value": "EUR",
+    "label": "Euro",
+    "description": "The official currency of the Eurozone."
+  },
+  {
+    "value": "JPY",
+    "label": "Japanese Yen",
+    "description": "The official currency of Japan."
+  },
+  {
+    "value": "GBP",
+    "label": "British Pound Sterling",
+    "description": "The official currency of the United Kingdom."
+  },
+  {
+    "value": "AUD",
+    "label": "Australian Dollar",
+    "description": "The official currency of Australia."
+  },
+  {
+    "value": "CAD",
+    "label": "Canadian Dollar",
+    "description": "The official currency of Canada."
+  },
+  {
+    "value": "CHF",
+    "label": "Swiss Franc",
+    "description": "The official currency of Switzerland."
+  },
+  {
+    "value": "CNY",
+    "label": "Chinese Yuan",
+    "description": "The official currency of the People's Republic of China."
+  },
+  {
+    "value": "SEK",
+    "label": "Swedish Krona",
+    "description": "The official currency of Sweden."
+  },
+  {
+    "value": "NZD",
+    "label": "New Zealand Dollar",
+    "description": "The official currency of New Zealand."
+  },
+  {
+    "value": "INR",
+    "label": "Indian Rupee",
+    "description": "The official currency of India."
+  },
+  {
+    "value": "BRL",
+    "label": "Brazilian Real",
+    "description": "The official currency of Brazil."
+  },
+  {
+    "value": "RUB",
+    "label": "Russian Ruble",
+    "description": "The official currency of Russia."
+  },
+  {
+    "value": "KRW",
+    "label": "South Korean Won",
+    "description": "The official currency of South Korea."
+  },
+  {
+    "value": "MXN",
+    "label": "Mexican Peso",
+    "description": "The official currency of Mexico."
+  },
+  {
+    "value": "ZAR",
+    "label": "South African Rand",
+    "description": "The official currency of South Africa."
+  },
+  {
+    "value": "SGD",
+    "label": "Singapore Dollar",
+    "description": "The official currency of Singapore."
+  },
+  {
+    "value": "TRY",
+    "label": "Turkish Lira",
+    "description": "The official currency of Turkey."
+  },
+  {
+    "value": "IDR",
+    "label": "Indonesian Rupiah",
+    "description": "The official currency of Indonesia."
+  },
+  {
+    "value": "HKD",
+    "label": "Hong Kong Dollar",
+    "description": "The official currency of Hong Kong."
+  },
+  {
+    "value": "NOK",
+    "label": "Norwegian Krone",
+    "description": "The official currency of Norway."
+  },
+  {
+    "value": "THB",
+    "label": "Thai Baht",
+    "description": "The official currency of Thailand."
+  },
+  {
+    "value": "MYR",
+    "label": "Malaysian Ringgit",
+    "description": "The official currency of Malaysia."
+  },
+  {
+    "value": "PHP",
+    "label": "Philippine Peso",
+    "description": "The official currency of the Philippines."
+  },
+  {
+    "value": "PLN",
+    "label": "Polish Złoty",
+    "description": "The official currency of Poland."
+  },
+  {
+    "value": "CLP",
+    "label": "Chilean Peso",
+    "description": "The official currency of Chile."
+  },
+  {
+    "value": "CZK",
+    "label": "Czech Koruna",
+    "description": "The official currency of the Czech Republic."
+  },
+  {
+    "value": "ILS",
+    "label": "Israeli New Shekel",
+    "description": "The official currency of Israel."
+  },
+  {
+    "value": "ARS",
+    "label": "Argentine Peso",
+    "description": "The official currency of Argentina."
+  },
+  {
+    "value": "EGP",
+    "label": "Egyptian Pound",
+    "description": "The official currency of Egypt."
+  },
+  {
+    "value": "DKK",
+    "label": "Danish Krone",
+    "description": "The official currency of Denmark."
+  },
+  {
+    "value": "AED",
+    "label": "United Arab Emirates Dirham",
+    "description": "The official currency of the United Arab Emirates."
+  },
+  {
+    "value": "QAR",
+    "label": "Qatari Riyal",
+    "description": "The official currency of Qatar."
+  },
+  {
+    "value": "HUF",
+    "label": "Hungarian Forint",
+    "description": "The official currency of Hungary."
+  },
+  {
+    "value": "KWD",
+    "label": "Kuwaiti Dinar",
+    "description": "The official currency of Kuwait."
+  },
+  {
+    "value": "SAR",
+    "label": "Saudi Riyal",
+    "description": "The official currency of Saudi Arabia."
+  },
+  {
+    "value": "VND",
+    "label": "Vietnamese Đồng",
+    "description": "The official currency of Vietnam."
+  },
+  {
+    "value": "UAH",
+    "label": "Ukrainian Hryvnia",
+    "description": "The official currency of Ukraine."
+  },
+  {
+    "value": "CRC",
+    "label": "Costa Rican Colón",
+    "description": "The official currency of Costa Rica."
+  },
+  {
+    "value": "PEN",
+    "label": "Peruvian Nuevo Sol",
+    "description": "The official currency of Peru."
+  },
+  {
+    "value": "COP",
+    "label": "Colombian Peso",
+    "description": "The official currency of Colombia."
+  },
+  {
+    "value": "HRK",
+    "label": "Croatian Kuna",
+    "description": "The official currency of Croatia."
+  },
+  {
+    "value": "RON",
+    "label": "Romanian Leu",
+    "description": "The official currency of Romania."
+  },
+  {
+    "value": "ARS",
+    "label": "Argentine Peso",
+    "description": "The official currency of Argentina."
+  },
+  {
+    "value": "ISK",
+    "label": "Icelandic Króna",
+    "description": "The official currency of Iceland."
+  },
+  {
+    "value": "BHD",
+    "label": "Bahraini Dinar",
+    "description": "The official currency of Bahrain."
+  },
+  {
+    "value": "LKR",
+    "label": "Sri Lankan Rupee",
+    "description": "The official currency of Sri Lanka."
+  },
+  {
+    "value": "BGN",
+    "label": "Bulgarian Lev",
+    "description": "The official currency of Bulgaria."
+  },
+  {
+    "value": "MKD",
+    "label": "Macedonian Denar",
+    "description": "The official currency of North Macedonia."
+  },
+  {
+    "value": "XPF",
+    "label": "CFP Franc",
+    "description": "The official currency of French Polynesia."
+  },
+  {
+    "value": "NGN",
+    "label": "Nigerian Naira",
+    "description": "The official currency of Nigeria."
+  },
+  {
+    "value": "JOD",
+    "label": "Jordanian Dinar",
+    "description": "The official currency of Jordan."
+  },
+  {
+    "value": "MAD",
+    "label": "Moroccan Dirham",
+    "description": "The official currency of Morocco."
+  },
+  {
+    "value": "LBP",
+    "label": "Lebanese Pound",
+    "description": "The official currency of Lebanon."
+  },
+  {
+    "value": "BBD",
+    "label": "Barbadian Dollar",
+    "description": "The official currency of Barbados."
+  }
+]
