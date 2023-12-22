@@ -27,6 +27,7 @@ const SearchComponent = () => {
           Async Search
         </label>
         <AsyncSelect
+          isMulti
           className="basic-single w-96"
           loadOptions={
             loadOptions as (
@@ -39,6 +40,7 @@ const SearchComponent = () => {
           Sync Search
         </label>
         <Select
+          isMulti
           className="basic-single w-96"
           classNamePrefix="select"
           options={CountryList}
